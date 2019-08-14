@@ -182,7 +182,7 @@ if __name__ == "__main__":
 
 
 # Tests
-Several unit tests have been created. These are created to be tested using pytest. Please see the file test_injector.py on github () for all the tests.
+Several unit tests have been created. These are created to be tested using pytest. Please see the file test_injector.py on github (https://github.com/Dadeerh/ssdi) for all the tests.
 
 # Contact
-Comment on github () or email to dadeerh91@gmail.com
+Comment on github (https://github.com/Dadeerh/ssdi) or email to dadeerh91@gmail.com
