@@ -1,0 +1,6 @@
+.pytest_cache
+.vscode
+dist/
+build/
+*.egg-info
+*.pycgit statu
