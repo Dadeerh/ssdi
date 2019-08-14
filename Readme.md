@@ -9,7 +9,7 @@ In case of multiple of the same type it will chose the first added type.
 It is, as the name indicates, really a very simple injector!
 
 # Requirements
-As the class uses type annotations, it is required to use Python 3.x+
+As the class uses type annotations, it is required to use Python 3
 
 There are further requirements to how you code your classes. This will be covered in usage and examples.
 
