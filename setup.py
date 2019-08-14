@@ -1,11 +1,12 @@
+import os
 from setuptools import setup, find_packages
 from pkg_resources import resource_string
 
-long_desc = str(resource_string(__name__, "Readme.md"))
+long_desc = open(os.path.join(os.path.dirname(__file__),"Readme.md")).read()
 
 setup(
     name="ssdi",
-    version="0.1",
+    version="0.1.1",
     scripts=["ssdi.py"],
     package_data={
         "":["*.md"]
